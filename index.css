@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.FilterableProductTable{
+    margin: 20px auto 0;
+    width: 300px;
+}
+
+ul,
+li{
+    list-style: none;
+}
+
+.CategoryRow{
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 1.5em;
+}
+
+.ProductTable span{
+    display: inline-block;
+    width: 120px;
+}
